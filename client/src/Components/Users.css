@@ -1,0 +1,9 @@
+.user-tile {
+  border: 1px solid blue;
+}
+
+.user-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
